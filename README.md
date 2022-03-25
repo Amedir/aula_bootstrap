@@ -1,2 +1,2 @@
-# aula_bootstrap
-Utilizando Bootstrap durante bootcamp da Philips na DIO 
+# Aula Bootstrap
+Utilizando Bootstrap durante bootcamp da Philips na Digital Innovatio One
