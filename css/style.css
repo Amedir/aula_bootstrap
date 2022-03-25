@@ -1,0 +1,33 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.quem-somos {
+  background-color: antiquewhite;
+}
+
+.margin {
+  padding: 50px;
+}
+
+.parceiros {
+  background-color: thistle;
+}
+
+.temporadas {
+  background-color: aliceblue;
+}
+
+.bg-footer {
+  background-color: darkslategray;
+  color: white;
+}
+
+.text-justify {
+  text-align: justify;
+  font-size: 20px;
+}
+
+.align {
+  align;
+}
